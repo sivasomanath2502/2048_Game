@@ -4,7 +4,7 @@ This is a simple implementation of the popular 2048 game using HTML, CSS, and Ja
 
 ## Getting Started
 
-To play the game, simply open the `index.html` file in your web browser. You can also host the files on a web server if you prefer.
+To play the game, simply open the `2048.html` file in your web browser. You can also host the files on a web server if you prefer.
 
 ## How to Play
 
